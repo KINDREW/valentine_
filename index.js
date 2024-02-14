@@ -9,16 +9,12 @@ const clickMe = document.querySelector(".click");
 const yesPressed = () => {};
 const phrases = [
   "No",
-  "Herh!",
   "Are you sure?",
-  "You bitch!",
   "Really sure?",
   "Think again!",
-  "My friend",
   "Last chance!",
   "Surely not?",
   "You might regret this!",
-  "Fuck you!",
   "Give it another thought!",
   "Are you absolutely certain?",
   "This could be a mistake!",
